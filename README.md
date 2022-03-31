@@ -21,4 +21,4 @@ NPC neural network is a simple three-layer neural network, including an input la
 The neural network obtains the player's coordinates and its own coordinates to calculate the moving direction, and the training and operation are carried out at the same time, so the NPC will be silly at the beginning
 Activation function: S function
     
-### See the comments in the code for details。
+### See the comments in the code for details（The code comments are written in Chinese）
