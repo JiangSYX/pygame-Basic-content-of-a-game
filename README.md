@@ -14,4 +14,8 @@ scene:
     7 game scenes
     
 There are seven game scenes in the game, but only the first one has an environment (it's not written because the game optimization is not good)
+
+NPC neural network is a simple three-layer neural network, including an input layer, a hidden layer and an output layer
+The neural network obtains the player's coordinates and its own coordinates to calculate the moving direction, and the training and operation are carried out at the same time, so the NPC will be silly at the beginning
+Activation function: S function
     
